@@ -1,3 +1,4 @@
 day-1 -:What is react?
 day-2-: What is npm, package parcel and create react app ?
-day-3-:....
+
+TOPICS-:Props,useState,useEffect,function based Component,Routing, Dyanmic routing(useParams,resId),Api fetch,class based component,shimmer effect,reconcillation process and their working how to execute in a single page application .
